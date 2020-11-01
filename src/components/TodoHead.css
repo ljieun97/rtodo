@@ -1,0 +1,18 @@
+.TodoHead {
+    /* 안쪽 여백 */
+    padding-top: 48px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 24px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.date {
+    margin-top: 4px;
+    font-size: 21px;
+    color: #868e96;
+}

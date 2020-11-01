@@ -1,0 +1,14 @@
+.insertForm {
+    display: flex;
+    padding: 10px 0px;
+}
+
+.insertInput {
+    margin: 0px 30px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #dee2e6;
+    width: 100%;
+    font-size: 18px;
+}
+
