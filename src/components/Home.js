@@ -9,17 +9,17 @@ const Home = () => {
     const [todos, setTodos] = useState([
         {
           id: 1,
-          text: '투두 curd',
+          text: '첫 번째 할 일',
           checked: true
         },
         {
           id: 2,
-          text: '투두 css',
+          text: '두 번째 할 일',
           checked: true
         },
         {
           id: 3,
-          text: '투두 서버 열기',
+          text: '세 번째 할 일',
           checked: false
         }
       ])

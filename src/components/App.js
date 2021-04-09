@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Home />
-      <footer className="footer">&copy; {new Date().getFullYear()} Jtodo </footer>
+      <footer className="footer">&copy; {new Date().getFullYear()} ljieun </footer>
     </div>
   )
 }
