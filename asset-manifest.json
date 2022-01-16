@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rtodo/static/css/main.5db88a77.chunk.css",
-    "main.js": "/rtodo/static/js/main.67e48a68.chunk.js",
-    "main.js.map": "/rtodo/static/js/main.67e48a68.chunk.js.map",
-    "runtime-main.js": "/rtodo/static/js/runtime-main.d6194400.js",
-    "runtime-main.js.map": "/rtodo/static/js/runtime-main.d6194400.js.map",
-    "static/js/2.67b27f90.chunk.js": "/rtodo/static/js/2.67b27f90.chunk.js",
-    "static/js/2.67b27f90.chunk.js.map": "/rtodo/static/js/2.67b27f90.chunk.js.map",
-    "index.html": "/rtodo/index.html",
-    "static/css/main.5db88a77.chunk.css.map": "/rtodo/static/css/main.5db88a77.chunk.css.map",
-    "static/js/2.67b27f90.chunk.js.LICENSE.txt": "/rtodo/static/js/2.67b27f90.chunk.js.LICENSE.txt"
+    "main.css": "/ljieun97/rtodo/static/css/main.5db88a77.chunk.css",
+    "main.js": "/ljieun97/rtodo/static/js/main.67e48a68.chunk.js",
+    "main.js.map": "/ljieun97/rtodo/static/js/main.67e48a68.chunk.js.map",
+    "runtime-main.js": "/ljieun97/rtodo/static/js/runtime-main.404e486a.js",
+    "runtime-main.js.map": "/ljieun97/rtodo/static/js/runtime-main.404e486a.js.map",
+    "static/js/2.ba1afe76.chunk.js": "/ljieun97/rtodo/static/js/2.ba1afe76.chunk.js",
+    "static/js/2.ba1afe76.chunk.js.map": "/ljieun97/rtodo/static/js/2.ba1afe76.chunk.js.map",
+    "index.html": "/ljieun97/rtodo/index.html",
+    "static/css/main.5db88a77.chunk.css.map": "/ljieun97/rtodo/static/css/main.5db88a77.chunk.css.map",
+    "static/js/2.ba1afe76.chunk.js.LICENSE.txt": "/ljieun97/rtodo/static/js/2.ba1afe76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6194400.js",
-    "static/js/2.67b27f90.chunk.js",
+    "static/js/runtime-main.404e486a.js",
+    "static/js/2.ba1afe76.chunk.js",
     "static/css/main.5db88a77.chunk.css",
     "static/js/main.67e48a68.chunk.js"
   ]
